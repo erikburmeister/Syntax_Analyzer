@@ -1,0 +1,30 @@
+Token,Classification
+class,<class datatype>
+pgm1,<program name>
+{,<left brace>
+const,<constant datatype>
+m,<constant identifier>
+=,<assignment operator>
+7,<numeric literal>
+",",<comma>
+n,<constant identifier>
+=,<assignment operator>
+85,<numeric literal>
+;,<semicolon>
+var,<variable datatype>
+x,<variable identifier>
+",",<comma>
+y,<variable identifier>
+",",<comma>
+z,<variable identifier>
+;,<semicolon>
+x,<variable identifier>
+=,<assignment operator>
+m,<variable identifier>
++,<addition operator>
+y,<variable identifier>
+*,<multiplication operator>
+z,<variable identifier>
++,<addition operator>
+12,<numeric literal>
+},<right brace>

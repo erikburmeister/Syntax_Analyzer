@@ -1,0 +1,2 @@
+RESERVED WORDS,class,const,var,if,then,while,do,procedure,call,print,input
+classification,<class datatype>,<constant datatype>,<variable datatype>,<if operator>,<then operator>,<while operator>,<do operator>,<procedure operator>,<call operator>,<print operator>,<input operator>

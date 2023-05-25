@@ -1,0 +1,3 @@
+SYMBOLS,+,-,*,/,=,==,<,>,<=,>=,!=,(,),{,},",",;
+classification,<addition operator>,<subtraction operator>,<multiplication operator>,<division operator>,<assignment operator>,<equality operator>,<less than operator>,<greater than operator>,<less than equals operator>,<greater than equals operator>,<not equals operator>,<left parenthesis>,<right parenthesis>,<left brace>,<right brace>,<comma>,<semicolon>
+,,,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+ ,Symbol,Classification,Value,Address,Segment
+1,pgm1,<program name>,,0,CS
+2,m,<constant identifier>,7,0,DS
+3,n,<constant identifier>,85,2,DS
+4,x,<variable identifier>,,4,DS
+5,y,<variable identifier>,,6,DS
+6,z,<variable identifier>,,8,DS
+7,12,<numeric literal>,12,10,DS
+8,temp1,,,
+9,temp2,,,
+10,temp3,,,
